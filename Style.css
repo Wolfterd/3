@@ -1,0 +1,153 @@
+
+h1 {
+    color:rgb(0, 62, 155);
+}
+body {
+    background-color:rgb(177, 177, 177);
+}
+
+/* ID */
+#header {
+background: rgb(58, 104, 255);
+padding: 10px;
+border-radius: 20px;
+}
+
+#header, .card {
+    margin-bottom: 10px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body {
+    /* font-family: Vedana, Tahoma; */
+    font-family: 'Permanent Marker', cursive;
+    font-size: 18px;
+    line-height: 40px;
+    font-weight: normal;
+/* font: normal 18px 'parmanent marker', cursive;  */
+    /* text-decoration:line-through; */
+    /* font-style: italic; */
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+
+.container {
+    padding-top: 20px;
+
+}
+
+.avatar {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, .25);
+}
+
+.info-text {
+    color: #5e5e5e;
+}
+
+.card {
+    
+    border-radius: 20px;
+    padding: 15px 20px;
+}
+
+.bg-yellow {
+    background: hwb(0 85% 20%);
+}
+
+.bg-red {
+    background: hwb(0 85% 20%);
+}
+
+.bg-green{
+    background: hwb(0 81% 19%);
+}
+
+a {
+    color: rgb(0, 4, 255);
+    text-decoration: none;
+    transition: all .4s;
+}
+
+a:hover {
+    color: rgb(104, 152, 255);
+    font-size: 2rem;
+}
+
+/* a:visited {
+    color: rgb(140, 0, 158);
+} */
+
+.btn{
+    background: hwb(0 81% 19%);
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    opacity: 0,8;
+}
+
+.btn4{
+    background: gray;
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+.btn4:hover{
+    opacity: 0.8;
+    color: rgb(0, 47, 255);
+}
+
+.list{
+    padding: 0 20px;
+}
+.list li{
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.jobs{
+    padding:0 20px;
+}
+
+.photo{
+    background: rgb(68, 81, 255);
+    padding: 7px 2px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, .50);
+    width: 300px;
+    
+} 
+
+
+.Btn3 {
+    background: rgb(136, 136, 136);
+    padding: 5px 10px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btnp{
+    background: hwb(0 81% 19%);
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.btnp:hover{
+    opacity: 0,8;
+}
+
+
+.Wolf{
+    background: hwb(0 51% 49%);
+    padding: 5px 10px;
+    border: none;
+    border-radius: 10px;
+
+}
